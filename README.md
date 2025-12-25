@@ -43,7 +43,7 @@ Deep Learning Computer Vision Segmentation Depth Estimation VLA Time Series
     <td>2025</td>
     <td>스마트 해운물류 x AI 미션 챌린지 : 이상신호 감지 기반 비정상 작동 진단</td>
     <td>Solo</td>
-    <td>-</td>
+    <td>30th / 229</td>
     <td></td>
   </tr>
   <tr>
