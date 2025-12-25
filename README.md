@@ -12,25 +12,3 @@ Deep Learning Computer Vision Image Segmentation Depth Estimation Vision-Languag
 
 💻 Projects
 ProjectDescriptionTech StackLinksKorean Sign Language Recognition지문자 인식 + 음성 인식 통합 시스템MediaPipe, Whisper, PyTorchGitHubDeZero Framework밑바닥부터 만드는 딥러닝 프레임워크 (Apple Silicon GPU 지원)Python, MLXGitHubCar ClassificationConvNeXt 기반 차종 분류 (EMA, SWA, TTA)PyTorch, timmGitHubDead Pixel Detection이미지 센서 불량 픽셀 탐지AnoDDPM, DINOv2GitHub
-
-📚 Study
-TopicDescriptionLinksCV Paper ReadingResNet → ViT → SAM → Depth Anything 논문 정리NotionDeep Learning from ScratchDeZero 프레임워크 구현 (LSTM, Transformer)GitHub
-
-🛠 Tech Stack
-ML/DL
-Show Image
-Show Image
-Show Image
-Tools
-Show Image
-Show Image
-Show Image
-
-📊 GitHub Stats
-<div align="center">
-Show Image
-Show Image
-</div>
-
-📫 Contact
-Show Image
