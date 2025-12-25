@@ -4,13 +4,81 @@ Computer Science student interested in Deep Learning and Computer Vision.
 Deep Learning Computer Vision Segmentation Depth Estimation VLA Time Series
 
 • Competitions
-#DateEventTeamResultLinks12025.01HAI Hecto AI Challenge 2025 - 중고차 차종 분류Solo90th / 748 (Top 12%)GitHub
+<table>
+  <tr>
+    <th>#</th>
+    <th>Date</th>
+    <th>Event</th>
+    <th>Team</th>
+    <th>Result</th>
+    <th>Links</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>2025.01</td>
+    <td>HAI Hecto AI Challenge 2025 - 중고차 차종 분류</td>
+    <td>Solo</td>
+    <td>90th / 748 (Top 12%)</td>
+    <td><a href="">GitHub</a></td>
+  </tr>
+</table>
 
 • Projects
-ProjectDescriptionTech StackLinksKorean Sign Language Recognition지문자 인식 + 음성 인식 통합 시스템MediaPipe, Whisper, PyTorchGitHubDeZero Framework밑바닥부터 시작하는 딥러닝 프레임워크 (Apple Silicon GPU)Python, MLXGitHubCar ClassificationConvNeXt 기반 차종 분류 (EMA, SWA, TTA)PyTorch, timmGitHub
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+    <th>Links</th>
+  </tr>
+  <tr>
+    <td>Korean Sign Language Recognition</td>
+    <td>지문자 인식 + 음성 인식 통합 시스템</td>
+    <td>MediaPipe, Whisper, PyTorch</td>
+    <td><a href="">GitHub</a></td>
+  </tr>
+  <tr>
+    <td>DeZero Framework</td>
+    <td>밑바닥부터 시작하는 딥러닝 프레임워크 (Apple Silicon GPU)</td>
+    <td>Python, MLX</td>
+    <td><a href="">GitHub</a></td>
+  </tr>
+  <tr>
+    <td>Car Classification</td>
+    <td>ConvNeXt 기반 차종 분류 (EMA, SWA, TTA)</td>
+    <td>PyTorch, timm</td>
+    <td><a href="">GitHub</a></td>
+  </tr>
+</table>
 
 • Paper Reading
-TopicPapersLinksCNN FundamentalsAlexNet, VGGNet, ResNetNotionSegmentationFCN, U-Net, DeepLab v3+, Mask2Former, SAMNotionDepth EstimationMonodepth2, MiDaS, Depth AnythingNotionTransformerViT, Swin Transformer, CLIPNotion
+<table>
+  <tr>
+    <th>Topic</th>
+    <th>Papers</th>
+    <th>Links</th>
+  </tr>
+  <tr>
+    <td>CNN Fundamentals</td>
+    <td>AlexNet, VGGNet, ResNet</td>
+    <td><a href="">Notion</a></td>
+  </tr>
+  <tr>
+    <td>Segmentation</td>
+    <td>FCN, U-Net, DeepLab v3+, Mask2Former, SAM</td>
+    <td><a href="">Notion</a></td>
+  </tr>
+  <tr>
+    <td>Depth Estimation</td>
+    <td>Monodepth2, MiDaS, Depth Anything</td>
+    <td><a href="">Notion</a></td>
+  </tr>
+  <tr>
+    <td>Transformer</td>
+    <td>ViT, Swin Transformer, CLIP</td>
+    <td><a href="">Notion</a></td>
+  </tr>
+</table>
 
 • OS & Tools 🔨
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
