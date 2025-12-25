@@ -1,15 +1,9 @@
-# Info
+Info
+Hi! I'm Yujun 👋
+Computer Science student interested in Deep Learning and Computer Vision.
+Deep Learning Computer Vision Segmentation Depth Estimation VLA Time Series
 
-## Hi! I'm Yujun 👋
-
-Department of Information and Communication Engineering student interested in **Deep Learning** and **Computer Vision**.
-
-`Deep Learning` `Computer Vision` `Segmentation` `Depth Estimation` `VLA` `Time Series`
-
----
-
-### • Competitions
-
+• Competitions
 <table>
   <tr>
     <th>#</th>
@@ -20,19 +14,72 @@ Department of Information and Communication Engineering student interested in **
     <th>Links</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td>2025.01</td>
-    <td>HAI Hecto AI Challenge 2025 - 중고차 차종 분류</td>
+    <td>8</td>
+    <td>2025</td>
+    <td>포항공대 일사량 추정 대회</td>
+    <td>Solo</td>
+    <td>🏆 7th / 153 (우수상)</td>
+    <td><a href="">GitHub</a></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>2025</td>
+    <td>LG Aimers 7기 오프라인 해커톤 (본선)</td>
+    <td>Team</td>
+    <td>12th / 31</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>2025</td>
+    <td>LG Aimers 7기 온라인 해커톤 (예선)</td>
+    <td>Team</td>
+    <td>25th / 817 (Top 3%)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>2025</td>
+    <td>스마트 해운물류 x AI 미션 챌린지 : 이상신호 감지 기반 비정상 작동 진단</td>
+    <td>Solo</td>
+    <td>-</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>2025</td>
+    <td>스마트 해운물류 x AI 미션 챌린지 : 스마트 항만 AGV 경로 최적화</td>
+    <td>Solo</td>
+    <td>-</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>2025</td>
+    <td>토스 NEXT ML CHALLENGE : 광고 클릭 예측(CTR) 모델 개발</td>
+    <td>Solo</td>
+    <td>261st / 709</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>2025</td>
+    <td>Boost Up AI 2025 : 신약 개발 경진대회</td>
+    <td>Solo</td>
+    <td>63rd / 763 (Top 8%)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>2025</td>
+    <td>HAI(하이)! - Hecto AI Challenge 2025 : 중고차 차종 분류</td>
     <td>Solo</td>
     <td>90th / 748 (Top 12%)</td>
     <td><a href="">GitHub</a></td>
   </tr>
 </table>
 
----
-
-### • Projects
-
+• Projects
 <table>
   <tr>
     <th>Project</th>
@@ -41,29 +88,20 @@ Department of Information and Communication Engineering student interested in **
     <th>Links</th>
   </tr>
   <tr>
-    <td>Korean Sign Language Recognition</td>
-    <td>지문자 인식 + 음성 인식 통합 시스템</td>
+    <td>Korean Sign Language & Speech Recognition</td>
+    <td>수어 지문자 인식 + 음성 인식 통합 시스템</td>
     <td>MediaPipe, Whisper, PyTorch</td>
     <td><a href="">GitHub</a></td>
   </tr>
   <tr>
-    <td>DeZero Framework</td>
-    <td>밑바닥부터 시작하는 딥러닝 프레임워크 (Apple Silicon GPU)</td>
-    <td>Python, MLX</td>
-    <td><a href="">GitHub</a></td>
-  </tr>
-  <tr>
-    <td>Car Classification</td>
-    <td>ConvNeXt 기반 차종 분류 (EMA, SWA, TTA)</td>
-    <td>PyTorch, timm</td>
+    <td>Stock Price Prediction</td>
+    <td>LSTM + 뉴스 감성분석 기반 주가 예측</td>
+    <td>PyTorch, LSTM, KoBERT</td>
     <td><a href="">GitHub</a></td>
   </tr>
 </table>
 
----
-
-### • Paper Reading
-
+• Paper Reading
 <table>
   <tr>
     <th>#</th>
@@ -249,14 +287,8 @@ Department of Information and Communication Engineering student interested in **
   </tr>
 </table>
 
----
-
-### • OS & Tools 🔨
-
+• OS & Tools 🔨
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square"/>
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
