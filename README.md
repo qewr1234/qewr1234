@@ -2,7 +2,7 @@
 
 ## Hi! I'm Yujun 👋
 
-Computer Science student interested in **Deep Learning** and **Computer Vision**.
+Department of Information and Communication Engineering student interested in **Deep Learning** and **Computer Vision**.
 
 `Deep Learning` `Computer Vision` `Segmentation` `Depth Estimation` `VLA` `Time Series`
 
