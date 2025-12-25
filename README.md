@@ -1,5 +1,6 @@
 Info
 Hi! I'm Yujun 👋
+
 Computer Science student interested in Deep Learning and Computer Vision.
 Deep Learning Computer Vision Segmentation Depth Estimation VLA Time Series
 
@@ -50,7 +51,7 @@ Deep Learning Computer Vision Segmentation Depth Estimation VLA Time Series
     <td>2025</td>
     <td>스마트 해운물류 x AI 미션 챌린지 : 스마트 항만 AGV 경로 최적화</td>
     <td>Solo</td>
-    <td>-</td>
+    <td>63th / 493</td>
     <td></td>
   </tr>
   <tr>
