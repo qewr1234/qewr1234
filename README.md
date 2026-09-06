@@ -7,8 +7,6 @@
 정보통신공학을 전공하며,  
 **AI/SW를 실제 HW에 연결하고 시스템 수준에서 동작까지 검증하는 엔지니어**를 지향합니다.
 
-**한국어** · [English](./README.en.md)
-
 </div>
 
 ---
@@ -34,7 +32,7 @@
 
 다각도 구조물 이미지로부터 **물리적 안정성과 붕괴 가능성을 추론**하는 Multi-View Vision AI 프로젝트입니다.
 
-`front.png`와 `top.png`를 ConvNeXt-Large DINOv3 backbone으로 처리한 뒤 Attention 기반 View Fusion을 적용하고, LogLoss 최적화를 위해 Label Smoothing과 Temperature Scaling을 사용했습니다.
+`front.png`와 `top.png`를 ConvNeXt-Large DINOv3 Backbone으로 처리한 뒤 Attention 기반 View Fusion을 적용하고, LogLoss 최적화를 위해 Label Smoothing과 Temperature Scaling을 사용했습니다.
 
 **🥇 DACON 구조물 안정성 물리 추론 AI 경진대회 1위 / 484팀**
 
@@ -110,7 +108,7 @@ MediaPipe 기반 손 특징 추출과 ST-GCN 기반 지문자 인식을 구현�
 
 자동차 이미지를 분류하는 **ConvNeXt 기반 Computer Vision 프로젝트**입니다.
 
-Conv layer 선택적 Freeze/Unfreeze Fine-Tuning과 다양한 해상도의 모델을 활용한 Probability Ensemble을 적용했습니다.
+Conv Layer 선택적 Freeze/Unfreeze Fine-Tuning과 다양한 해상도의 모델을 활용한 Probability Ensemble을 적용했습니다.
 
 **90 / 748**
 
@@ -120,7 +118,7 @@ Conv layer 선택적 Freeze/Unfreeze Fine-Tuning과 다양한 해상도의 모�
 
 ## 🎯 Engineering Focus
 
-- **Physical AI** — 실제 환경에서 perception과 action을 연결하는 AI 시스템
+- **Physical AI** — 실제 환경에서 Perception과 Action을 연결하는 AI 시스템
 - **Robotics** — Vision, Sensor, Control을 결합한 로봇 시스템
 - **Edge AI** — NVIDIA Jetson 기반 경량 모델 배포 및 추론 최적화
 - **Embedded SW** — MCU 및 HW 인터페이스 기반 시스템 구현
