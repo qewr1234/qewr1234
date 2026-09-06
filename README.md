@@ -54,6 +54,5 @@
 
 <div align="center">
 
-**Embedded SW × Physical AI × Robotics × Edge AI**
 
 </div>
