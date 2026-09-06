@@ -20,9 +20,9 @@
 | **2026.05** | ISET 2026 우수발표논문 | **🏆 장려상** | — |
 | **2026.04** | 구조물 안정성 물리 추론 AI 경진대회 | **🥇 1위 / 484팀** | [Repo](https://github.com/qewr1234/dacon-structural-stability-ai) |
 | **2025.12** | 제7회 POSTECH OIBC Challenge | **🏆 4위 / 153팀 · 장려상** | [Repo](https://github.com/qewr1234/postech-oibc-solar) |
-| **2025** | LG Aimers 7기 | **온라인 25 / 817 → 본선 12 / 31** | [Repo](https://github.com/qewr1234/LG-Aimers-7th) |
-| **2025** | Hecto AI Challenge | **90 / 748** | [Repo](https://github.com/qewr1234/hai-vehicle-classification) |
-| **2025** | MIDAS GROUP 최종발표회 | **🏆 우수상** | — |
+| **2025.12** | MIDAS GROUP 최종발표회 | **🏆 우수상** | — |
+| **2025.09** | LG Aimers 7기 | **온라인 25 / 817 → 본선 12 / 31** | [Repo](https://github.com/qewr1234/LG-Aimers-7th) |
+| **2025.06** | Hecto AI Challenge | **90 / 748** | [Repo](https://github.com/qewr1234/hai-vehicle-classification) |
 
 ---
 
