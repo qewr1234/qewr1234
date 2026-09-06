@@ -2,8 +2,6 @@
 
 # 이유준
 
-**Embedded SW · Physical AI · Robotics · Edge AI**
-
 정보통신공학을 전공하며,  
 **AI/SW를 실제 HW에 연결하고 시스템 수준에서 동작까지 검증하는 엔지니어**를 지향합니다.
 
@@ -46,10 +44,10 @@
 | Category | Technologies |
 |---|---|
 | **Languages** | `Python` `C` `C++` |
-| **AI / ML** | `PyTorch` `LightGBM` `scikit-learn` `timm` |
-| **Computer Vision** | `OpenCV` `MediaPipe` `RealSense` |
-| **Robotics** | `ROS2` `MAVLink` |
-| **Embedded / Edge AI** | `NVIDIA Jetson` `TensorRT` `STM32` |
+| **AI / ML** | `PyTorch` `LightGBM` |
+| **Computer Vision** | `OpenCV` |
+| **Robotics** | `MAVLink` |
+| **Embedded / Edge AI** | `NVIDIA Jetson` `TensorRT` |
 | **Development** | `Linux` `Docker` `Git` `GitHub` |
 
 ---
