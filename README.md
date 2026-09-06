@@ -1,4 +1,3 @@
-
 <h1 align="center">이유준 | Embedded SW · Physical AI · Robotics</h1>
 
 <p align="center">
@@ -7,8 +6,7 @@ SW를 실제 장비에 연결하고, 센서·제어기·엣지 디바이스에�
 </p>
 
 <p align="center">
-<a href="#-수상--주요-성과">한국어</a> ·
-<a href="#english">English</a>
+<b>한국어</b> · <a href="./README.en.md">English</a>
 </p>
 
 🏆 수상 & 주요 성과
@@ -106,108 +104,3 @@ NVIDIA Jetson · TensorRT
 Tools
 
 Linux · Git · GitHub
-
-<a id="english"></a>
-
-<details>
-<summary><b>English version</b></summary>
-
-<br/>
-
-🏆 Awards & Highlights
-
-Date
-
-Achievement
-
-2026.09
-
-2026 MIDAS CDP Competition — Excellence Award · GPS & Vision-based Leader-Follower Drone Swarm
-
-2026.06
-
-2026 MIDAS GROUP Final Presentation — Grand Prize
-
-2026.05
-
-ISET 2026 — Excellent Paper Encouragement Award · Real-time Edge Deployment of a Lightweight VLA Model
-
-2026.04
-
-Structural Stability Classification AI Competition — 1st / 484
-
-2025.12
-
-7th POSTECH OIBC Challenge — Encouragement Award, 4th / 153
-
-2025
-
-2025 MIDAS GROUP Final Presentation — Excellence Award
-
-📌 Projects
-
-Period
-
-Project
-
-Description
-
-2026
-
-Dead Pixel Detector
-
-Rule/statistics-based dead-pixel detection and comparison viewer using IIR sensor RAW data
-
-2026
-
-Leader-Follower Drone
-
-Follower detection/tracking and HW/SW interface integration with Jetson Orin NX, D435i and MAVLink
-
-2026
-
-Lightweight VLA
-
-Lightweight VLA research for Jetson Orin Nano deployment and real-time inference
-
-2026
-
-KSL Recognition
-
-Multimodal recognition system combining ST-GCN/MediaPipe-based sign recognition and speech recognition
-
-2025.12
-
-POSTECH OIBC Solar
-
-Solar irradiance estimation with missing-data handling, geographic features and LightGBM
-
-2025
-
-LG Aimers 7th
-
-Time-series/tabular modeling and ensemble methods
-
-🧰 Tech Stack
-
-Category
-
-Stack
-
-Languages
-
-Python · C · C++
-
-AI
-
-PyTorch · OpenCV · Machine Learning
-
-Embedded / Edge
-
-NVIDIA Jetson · TensorRT
-
-Tools
-
-Linux · Git · GitHub
-
-</details>
