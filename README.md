@@ -34,7 +34,7 @@
 | **KSL Recognition** | Multimodal AI | [GitHub](https://github.com/qewr1234/ksl-recognition) |
 | **POSTECH OIBC Solar** | Machine Learning / Solar Irradiance | [GitHub](https://github.com/qewr1234/postech-oibc-solar) |
 | **LG Aimers 7th** | Time-Series / Tabular ML | [GitHub](https://github.com/qewr1234/LG-Aimers-7th) |
-| **Hecto AI Challenge** | Computer Vision | [GitHub]([https://github.com/qewr1234/hai-vehicle-classification](https://github.com/qewr1234/HAI)) |
+| **Hecto AI Challenge** | Computer Vision | [GitHub]([(https://github.com/qewr1234/HAI)) |
 
 ---
 
