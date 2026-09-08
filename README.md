@@ -29,7 +29,6 @@
 | Project | Area | Repository |
 |---|---|:---:|
 | **Structural Stability Physics AI** | Multi-View Vision / Physical Reasoning | [GitHub](https://github.com/qewr1234/dacon-structural-stability-ai) |
-| **Dead Pixel Detector** | Sensor / Image Processing | [GitHub](https://github.com/qewr1234/dead-pixel-detector) |
 | **Leader-Follower Drone** | Robotics / Edge AI | [GitHub](https://github.com/qewr1234/drone-swarm-detection) |
 | **Lightweight VLA** | Physical AI / Edge AI | [GitHub](https://github.com/qewr1234/smolvla-fast-lite) |
 | **KSL Recognition** | Multimodal AI | [GitHub](https://github.com/qewr1234/ksl-recognition) |
