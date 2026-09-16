@@ -38,6 +38,10 @@
 
 ---
 
+## 💻 Algorithm & Coding Test
+
+---
+
 ## 🛠 Tech Stack
 
 | Category | Technologies |
