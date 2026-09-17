@@ -30,7 +30,7 @@
 |---|---|:---:|
 | **Structural Stability Physics AI** | Multi-View Vision / Physical Reasoning | [GitHub](https://github.com/qewr1234/dacon-structural-stability-ai) |
 | **Leader-Follower Drone** | Robotics / Edge AI | [GitHub](https://github.com/qewr1234/Leader-Follower-Drone) |
-| **Lightweight VLA** | Physical AI / Edge AI | [GitHub](https://github.com/qewr1234/smolvla-fast-lite) |
+| **Lightweight VLA** | Physical AI / Edge AI | [GitHub](https://github.com/qewr1234/Lightweight-VLA) |
 | **KSL Recognition** | Multimodal AI | [GitHub](https://github.com/qewr1234/ksl-recognition) |
 | **POSTECH OIBC Solar** | Machine Learning / Solar Irradiance | [GitHub](https://github.com/qewr1234/postech-oibc-solar) |
 | **LG Aimers 7th** | Time-Series / Tabular ML | [GitHub](https://github.com/qewr1234/LG-Aimers-7th) |
